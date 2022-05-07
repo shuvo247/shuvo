@@ -4,10 +4,10 @@
 - :telescope: I’m currently workin on **[Javascript React]**
  - :telescope: I’m currently learning on **[Javascript React]**
 - :dancers: I’m looking to collaborate on **OpenSource Projects**
-- :male-technologist: All of my projects are available at **[My Portfolio](https://github.com/shuvo)**
+- :male-technologist: All of my projects are available at **[My Portfolio](https://github.com/shuvo247)**
 - :mailbox: How to reach me **mosiurrahman595@gmail.com**
 <br/>
-<a href="https://github.com/shuvo"></a>
+<a href="https://github.com/shuvo247"></a>
 <br/>
 ## :rocket: Languages and Tools:
 <p align="left">
