@@ -1,13 +1,13 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi ! I'm Mosiur</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi ! I'm Shuvo</h1>
 <h3 align="center">Non-technical graduate as a Front-End-React developer..</h3>
 ## :man-raising-hand: About Me
 - :telescope: I’m currently workin on **[Javascript React]**
  - :telescope: I’m currently learning on **[Javascript React]**
 - :dancers: I’m looking to collaborate on **OpenSource Projects**
-- :male-technologist: All of my projects are available at **[My Portfolio](https://github.com/MosiurRrahman)**
+- :male-technologist: All of my projects are available at **[My Portfolio](https://github.com/shuvo)**
 - :mailbox: How to reach me **mosiurrahman595@gmail.com**
 <br/>
-<a href="https://github.com/MosiurRrahman"></a>
+<a href="https://github.com/shuvo"></a>
 <br/>
 ## :rocket: Languages and Tools:
 <p align="left">
@@ -23,7 +23,7 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 <p align="center">
-    <a href="https://github.com/MosiurRrahman">
+    <a href="https://github.com/shuvo">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MosiurRrahman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
